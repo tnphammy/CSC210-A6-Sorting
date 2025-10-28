@@ -1,5 +1,4 @@
 import java.util.Collections;
-import java.util.List;
 import java.util.ListIterator;
 
 public class InsertionSort {
@@ -31,16 +30,13 @@ public class InsertionSort {
       while (compareIt.hasNext()) {
         // Get next element for comparison
         Card second = compareIt.next();
-        System.out.println("SECOND: " + second);
         // Find the place where 'first' is smaller than its next element in sorted
         if (first.compareTo(second) > 0) {
-          System.out.println("FIRST: " + first);
-          addIt.next(); // keep advancing if 'first' is still too big
+          addIt.next(); // advances add position
         }
       }
       // Add it to sorted list
       addIt.add(first);
-      System.out.println("SORTED: " + sorted);
       // Remove it from unsorted list
       beginning.remove();
       // Update graphics
