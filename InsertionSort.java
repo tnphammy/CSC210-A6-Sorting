@@ -33,7 +33,7 @@ public class InsertionSort {
         Card second = compareIt.next();
         System.out.println("SECOND: " + second);
         // Find the place where 'first' is smaller than its next element in sorted
-        while (first.compareTo(second) > 0) {
+        if (first.compareTo(second) > 0) {
           System.out.println("FIRST: " + first);
           addIt.next(); // keep advancing if 'first' is still too big
         }
