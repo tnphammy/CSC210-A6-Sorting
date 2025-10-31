@@ -11,17 +11,17 @@ your work, please indicate the status of each item
 
 ## Assignment Points:
 
-_____ 2 pt: Selection sort for CardPile sorts correctly
+YES 2 pt: Selection sort for CardPile sorts correctly
 
-_____ 1 pt: Selection sort for CardPile implemented efficiently
+YES 1 pt: Selection sort for CardPile implemented efficiently
 
-_____ 2 pt: Insertion sort for CardPile sorts correctly
+YES 2 pt: Insertion sort for CardPile sorts correctly
 
-_____ 1 pt: Insertion sort for CardPile implemented efficiently
+YES 1 pt: Insertion sort for CardPile implemented efficiently
 
-_____ 1 pt: Merge sort for CardPile sorts correctly
+YES 1 pt: Merge sort for CardPile sorts correctly
 
-_____ 1 pt: Merge sort for CardPile implemented efficiently
+YES 1 pt: Merge sort for CardPile implemented efficiently
 
 _____ 1 pt: Implemented timing versions of at least two sort algorithms
 
@@ -34,22 +34,22 @@ _____ Kudos: Quicksort for CardPile implemented efficiently
 
 ## General Items:
 
-_____ 4 pts: Program compiles without errors or warnings
+YES 4 pts: Program compiles without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+YES 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+YES 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      _____ Classes & class members all have Javadoc header comments
+      YES Classes & class members all have Javadoc header comments
 
-      _____ Clear and consistent indentation of bracketed sections
+      YES Clear and consistent indentation of bracketed sections
 
-      _____ Adheres to Java conventions on naming & capitalization
+      YES Adheres to Java conventions on naming & capitalization
 
-      _____ Methods & variables all have clear and accurate names
+      YES Methods & variables all have clear and accurate names
 
-      _____ Methods avoid confusing side effects
+      YES Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission
+YES 1 pt: All required files included with submission
 
 _____ 1 pt: readme.md contains reflection on the assignment
