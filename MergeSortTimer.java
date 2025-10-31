@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 
 /**
- *  Program pretends to sort cards, omitting graphics
+ *  Program sorts cards using Merge Sort, omitting graphics
  */
 public class MergeSortTimer {
 

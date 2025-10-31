@@ -1,8 +1,5 @@
 /**
- *  Program pretends to sort cards, omitting graphics
- *
- *  @author Jordan Crouser
- *  @version March 2022
+ *  Program sorts cards using Quick Sort, omitting graphics
  */
 public class QuicksortTimer {
 
